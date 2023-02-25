@@ -1,0 +1,1 @@
+Glidar is a smart assistant for hang gliding
